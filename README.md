@@ -11,12 +11,12 @@ That's completed !
 
 # Running the code
 
-Open your terminal and type `npm start`
+Open your terminal on the repo and type `npm start`
 ## Output
 Output file will be generated in the assets folder of the repository - `output.txt`
 
 # Testing the code
 
-Open your terminal and type `npm test`
+Open your terminal on the repo and type `npm test`
 
 That's done :D
