@@ -1,0 +1,10 @@
+{
+  "urlPath": "https://s3.amazonaws.com/intercom-take-home-test/customers.txt",
+  "filePath": "./assets/customers.txt",
+  "opPath": "./assets/output.txt",
+  "officeCords": {
+    "longitude": "-6.257664",
+    "latitude": "53.339428",
+    "range": "100"
+  }
+}

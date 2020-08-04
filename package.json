@@ -1,0 +1,18 @@
+{
+  "name": "snackpartylist",
+  "version": "1.0.0",
+  "description": "Customer list for snack party within 100km from office",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "vidhi gandhi <gandhividhi08@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
